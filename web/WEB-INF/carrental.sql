@@ -1,0 +1,7 @@
+CREATE TABLE `vehicle` (
+	id INT NOT NULL AUTO_INCREMENT,
+	brand VARCHAR(255),
+	vin VARCHAR(255),
+	PRIMARY KEY(id)
+);
+
